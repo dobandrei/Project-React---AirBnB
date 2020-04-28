@@ -1,0 +1,12 @@
+.App {
+    display:flex;
+    flex-direction: column;
+    width : 70%;
+    
+}
+
+.AppContainer{
+    display:flex;
+    justify-content: center;
+    
+}
